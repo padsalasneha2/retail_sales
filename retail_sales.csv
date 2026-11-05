@@ -1,0 +1,301 @@
+Date,Product,Category,Price,Quantity Sold,Total Sales
+2025-01-01,Cooking Oil,Grocery,415.58,9.0,3740.22
+2025-01-01,Laptop,Electronics,52151.93,9.0,469367.37
+2025-01-01,Smartphone,Electronics,28087.4,3.0,84262.2
+2025-01-02,Cooking Oil,Grocery,408.32,1.0,408.32
+2025-01-02,Notebook,Stationery,60.2,1.0,60.2
+2025-01-05,Pen Pack,Stationery,113.37,5.0,566.85
+2025-01-05,T-Shirt,Clothing,608.39,10.0,6083.9
+2025-01-06,Headphones,Electronics,2439.39,5.0,12196.95
+2025-01-10,Jeans,Clothing,1534.02,2.0,3068.04
+2025-01-11,Smartphone,Electronics,32463.74,5.0,162318.7
+2025-01-13,Rice Bag,Grocery,908.81,2.0,1817.62
+2025-01-13,Headphones,Electronics,2378.1,8.0,19024.8
+2025-01-15,Pen Pack,Stationery,116.5,3.0,349.5
+2025-01-17,Headphones,Electronics,2536.0,1.0,2536.0
+2025-01-20,Jeans,Clothing,1425.9,3.0,4277.7
+2025-01-22,Smartphone,Electronics,28671.54,,372730.02
+2025-01-23,Cooking Oil,Grocery,457.51,8.0,3660.08
+2025-01-23,Jeans,Clothing,1648.99,5.0,8244.95
+2025-01-25,Pen Pack,Stationery,116.0,4.0,464.0
+2025-01-26,Rice Bag,Grocery,862.85,7.0,6039.95
+2025-01-28,Pen Pack,Stationery,116.6,9.0,1049.4
+2025-01-28,Notebook,Stationery,,12.0,663.24
+2025-01-30,Jacket,Clothing,3168.58,12.0,38022.96
+2025-02-02,Cooking Oil,Grocery,465.95,3.0,1397.85
+2025-02-02,Rice Bag,Grocery,963.01,12.0,11556.12
+2025-02-04,Smartphone,Electronics,27233.78,2.0,54467.56
+2025-02-04,Headphones,Electronics,2545.65,6.0,15273.9
+2025-02-06,Laptop,Electronics,50524.13,12.0,606289.56
+2025-02-07,Jeans,Clothing,1350.81,9.0,12157.29
+2025-02-08,Pen Pack,Stationery,126.32,5.0,631.6
+2025-02-08,Smartphone,Electronics,29148.98,8.0,233191.84
+2025-02-11,Jacket,Clothing,3093.0,3.0,9279.0
+2025-02-11,Rice Bag,Grocery,817.28,10.0,8172.8
+2025-02-18,Jacket,Clothing,3020.86,2.0,6041.72
+2025-02-19,Headphones,Electronics,2704.66,4.0,10818.64
+2025-02-20,Pen Pack,Stationery,126.51,10.0,1265.1
+2025-02-20,Smartphone,Electronics,29630.84,6.0,177785.04
+2025-02-22,Smartphone,Electronics,29312.5,10.0,293125.0
+2025-02-22,Headphones,Electronics,2551.22,4.0,10204.88
+2025-02-23,Cooking Oil,Grocery,472.98,14.0,6621.72
+2025-02-23,Headphones,Electronics,2510.08,12.0,30120.96
+2025-02-24,T-Shirt,Clothing,561.83,13.0,7303.79
+2025-02-24,Rice Bag,Grocery,975.75,6.0,5854.5
+2025-02-27,Notebook,Stationery,62.26,1.0,62.26
+2025-02-28,Laptop,Electronics,59053.15,8.0,472425.2
+2025-03-02,Headphones,Electronics,2507.62,2.0,5015.24
+2025-03-03,Headphones,Electronics,2301.56,1.0,2301.56
+2025-03-04,T-Shirt,Clothing,589.75,12.0,7077.0
+2025-03-06,Notebook,Stationery,57.56,13.0,748.28
+2025-03-06,Jeans,Clothing,1357.91,1.0,1357.91
+2025-03-08,T-Shirt,Clothing,,10.0,5968.8
+2025-03-08,Cooking Oil,Grocery,414.37,5.0,2071.85
+2025-03-10,Rice Bag,Grocery,952.97,1.0,952.97
+2025-03-10,T-Shirt,Clothing,608.81,5.0,3044.05
+2025-03-10,Notebook,Stationery,58.1,12.0,697.2
+2025-03-10,Laptop,Electronics,52340.69,8.0,418725.52
+2025-03-13,Rice Bag,,953.38,11.0,10487.18
+2025-03-15,Smartphone,Electronics,32811.91,9.0,295307.19
+2025-03-16,Jacket,Clothing,3134.63,12.0,37615.56
+2025-03-16,Jeans,Clothing,1536.09,2.0,3072.18
+2025-03-17,Jeans,Clothing,1533.52,7.0,10734.64
+2025-03-19,Cooking Oil,Grocery,457.87,1.0,457.87
+2025-03-19,Pen Pack,Stationery,129.46,1.0,129.46
+2025-03-22,Cooking Oil,Grocery,405.5,11.0,4460.5
+2025-03-23,Headphones,Electronics,2541.52,12.0,30498.24
+2025-03-24,Jeans,Clothing,1567.84,10.0,15678.4
+2025-03-27,Pen Pack,Stationery,116.54,5.0,582.7
+2025-03-27,Rice Bag,Grocery,867.97,7.0,6075.79
+2025-03-30,Jeans,Clothing,1485.15,2.0,2970.3
+2025-04-03,Rice Bag,Grocery,822.81,8.0,6582.48
+2025-04-04,T-Shirt,Clothing,540.64,6.0,3243.84
+2025-04-06,Headphones,Electronics,2745.25,4.0,10981.0
+2025-04-06,Pen Pack,Stationery,111.75,2.0,223.5
+2025-04-09,Headphones,Electronics,2436.14,9.0,21925.26
+2025-04-11,Laptop,Electronics,58423.25,11.0,642655.75
+2025-04-11,T-Shirt,Clothing,544.66,6.0,3267.96
+2025-04-15,Laptop,Electronics,58721.62,2.0,117443.24
+2025-04-18,Laptop,Electronics,58606.56,12.0,703278.72
+2025-04-19,Rice Bag,Grocery,950.63,7.0,6654.41
+2025-04-21,Notebook,Stationery,59.98,4.0,239.92
+2025-04-21,Cooking Oil,Grocery,416.98,3.0,1250.94
+2025-04-21,Cooking Oil,Grocery,450.53,9.0,4054.77
+2025-04-22,Headphones,Electronics,2364.28,10.0,23642.8
+2025-04-22,Jeans,Clothing,1395.86,7.0,9771.02
+2025-04-23,Smartphone,Electronics,31273.62,5.0,156368.1
+2025-04-23,Laptop,Electronics,56562.35,11.0,622185.85
+2025-04-23,Headphones,Electronics,2476.64,2.0,4953.28
+2025-04-23,Pen Pack,Stationery,128.84,8.0,1030.72
+2025-04-23,Headphones,Electronics,2349.75,4.0,9399.0
+2025-04-24,Notebook,Stationery,59.95,10.0,599.5
+2025-04-25,Pen Pack,Stationery,124.36,14.0,1741.04
+2025-04-25,Rice Bag,Grocery,953.97,1.0,953.97
+2025-04-26,Jeans,Clothing,1521.69,12.0,18260.28
+2025-04-27,Notebook,Stationery,56.47,,508.23
+2025-04-27,Laptop,Electronics,50411.8,1.0,50411.8
+2025-04-28,Pen Pack,Stationery,119.96,6.0,719.76
+2025-04-29,Pen Pack,Stationery,127.8,3.0,383.4
+2025-04-30,Headphones,Electronics,2678.16,6.0,16068.96
+2025-04-30,Pen Pack,Stationery,115.75,1.0,115.75
+2025-05-01,Laptop,Electronics,52493.45,11.0,577427.95
+2025-05-03,T-Shirt,Clothing,549.7,8.0,4397.6
+2025-05-04,Cooking Oil,Grocery,470.35,13.0,6114.55
+2025-05-05,Rice Bag,,938.48,3.0,2815.44
+2025-05-05,Notebook,Stationery,55.86,14.0,782.04
+2025-05-08,T-Shirt,Clothing,647.11,11.0,7118.21
+2025-05-08,Rice Bag,Grocery,841.39,1.0,841.39
+2025-05-09,Notebook,Stationery,65.84,8.0,526.72
+2025-05-10,Laptop,Electronics,56477.86,14.0,790690.04
+2025-05-11,Laptop,Electronics,53712.2,14.0,751970.8
+2025-05-13,Rice Bag,Grocery,904.25,1.0,904.25
+2025-05-15,T-Shirt,Clothing,583.98,8.0,4671.84
+2025-05-15,Notebook,Stationery,54.56,3.0,163.68
+2025-05-17,Smartphone,Electronics,27745.78,8.0,221966.24
+2025-05-22,T-Shirt,Clothing,618.0,14.0,8652.0
+2025-05-23,Jeans,Clothing,1424.79,13.0,18522.27
+2025-05-24,Laptop,Electronics,49902.05,14.0,698628.7
+2025-05-25,Jeans,Clothing,1642.32,11.0,18065.52
+2025-05-25,Pen Pack,Stationery,120.85,9.0,1087.65
+2025-05-27,Rice Bag,Grocery,942.46,5.0,4712.3
+2025-05-27,Rice Bag,Grocery,871.03,3.0,2613.09
+2025-05-28,Smartphone,Electronics,29811.96,10.0,298119.6
+2025-05-30,Jacket,Clothing,3267.7,1.0,3267.7
+2025-05-31,Cooking Oil,Grocery,423.8,6.0,2542.8
+2025-06-01,Cooking Oil,Grocery,435.03,8.0,3480.24
+2025-06-02,Jacket,Clothing,3225.46,1.0,3225.46
+2025-06-05,Cooking Oil,Grocery,440.51,8.0,3524.08
+2025-06-06,T-Shirt,Clothing,628.98,11.0,6918.78
+2025-06-08,Pen Pack,Stationery,116.21,6.0,697.26
+2025-06-09,Jacket,Clothing,3393.35,13.0,44113.55
+2025-06-09,Cooking Oil,Grocery,489.86,6.0,2939.16
+2025-06-10,T-Shirt,Clothing,578.48,3.0,1735.44
+2025-06-11,Rice Bag,Grocery,945.58,10.0,9455.8
+2025-06-13,Jeans,Clothing,1433.21,12.0,17198.52
+2025-06-18,Smartphone,Electronics,31151.37,13.0,404967.81
+2025-06-19,Notebook,Stationery,57.49,11.0,632.39
+2025-06-19,Headphones,Electronics,2330.61,2.0,4661.22
+2025-06-19,Rice Bag,Grocery,886.7,8.0,7093.6
+2025-06-21,Jeans,Clothing,1557.73,10.0,15577.3
+2025-06-22,Headphones,Electronics,2305.6,3.0,6916.8
+2025-06-22,Pen Pack,Stationery,108.12,4.0,432.48
+2025-06-23,Jacket,Clothing,3325.46,8.0,26603.68
+2025-06-25,Headphones,Electronics,2578.81,1.0,2578.81
+2025-06-26,Jacket,Clothing,2901.68,1.0,2901.68
+2025-06-26,Rice Bag,Grocery,985.6,9.0,8870.4
+2025-06-27,Pen Pack,Stationery,117.32,12.0,1407.84
+2025-06-29,Headphones,Electronics,2374.11,9.0,21366.99
+2025-07-01,Jeans,Clothing,1645.45,14.0,23036.3
+2025-07-02,Headphones,Electronics,2518.63,7.0,17630.41
+2025-07-03,T-Shirt,Clothing,594.84,4.0,2379.36
+2025-07-06,T-Shirt,Clothing,653.14,7.0,4571.98
+2025-07-06,Smartphone,Electronics,31484.83,14.0,440787.62
+2025-07-06,T-Shirt,Clothing,639.17,6.0,3835.02
+2025-07-10,Headphones,Electronics,2541.68,14.0,35583.52
+2025-07-10,Pen Pack,Stationery,121.62,13.0,1581.06
+2025-07-11,Jeans,Clothing,1541.48,13.0,20039.24
+2025-07-11,T-Shirt,Clothing,561.29,9.0,5051.61
+2025-07-13,Notebook,Stationery,63.86,10.0,638.6
+2025-07-13,Cooking Oil,Grocery,470.06,14.0,6580.84
+2025-07-17,Cooking Oil,Grocery,425.61,7.0,2979.27
+2025-07-21,Smartphone,Electronics,31650.8,2.0,63301.6
+2025-07-21,Notebook,Stationery,62.85,12.0,754.2
+2025-07-22,Jeans,Clothing,1363.02,5.0,6815.1
+2025-07-23,Laptop,Electronics,52925.55,14.0,740957.7
+2025-07-24,Smartphone,Electronics,30724.83,2.0,61449.66
+2025-07-26,Laptop,Electronics,50974.17,7.0,356819.19
+2025-07-27,Notebook,Stationery,65.53,5.0,327.65
+2025-07-29,Pen Pack,Stationery,130.08,2.0,260.16
+2025-07-30,Rice Bag,Grocery,886.82,8.0,7094.56
+2025-08-02,Headphones,Electronics,2342.26,8.0,18738.08
+2025-08-03,T-Shirt,Clothing,611.75,8.0,4894.0
+2025-08-03,Jeans,Clothing,1396.81,3.0,4190.43
+2025-08-04,Pen Pack,Stationery,126.24,14.0,1767.36
+2025-08-05,Smartphone,Electronics,30238.15,8.0,241905.2
+2025-08-05,Laptop,Electronics,56978.29,7.0,398848.03
+2025-08-05,T-Shirt,Clothing,568.4,7.0,3978.8
+2025-08-06,Pen Pack,Stationery,130.73,12.0,1568.76
+2025-08-08,Notebook,Stationery,57.71,4.0,230.84
+2025-08-09,Pen Pack,Stationery,118.6,7.0,830.2
+2025-08-10,T-Shirt,Clothing,607.59,4.0,2430.36
+2025-08-11,T-Shirt,Clothing,653.33,6.0,3919.98
+2025-08-11,Jeans,Clothing,1498.33,7.0,10488.31
+2025-08-11,Cooking Oil,Grocery,467.73,8.0,3741.84
+2025-08-11,Headphones,Electronics,2334.75,9.0,21012.75
+2025-08-12,Smartphone,Electronics,29466.22,7.0,206263.54
+2025-08-12,Cooking Oil,Grocery,450.2,1.0,450.2
+2025-08-14,Headphones,Electronics,2701.58,12.0,32418.96
+2025-08-18,Pen Pack,Stationery,122.84,13.0,1596.92
+2025-08-19,Pen Pack,Stationery,110.93,9.0,998.37
+2025-08-21,Jeans,Clothing,1514.61,5.0,7573.05
+2025-08-21,Jeans,Clothing,1615.05,12.0,19380.6
+2025-08-21,Headphones,Electronics,2444.6,12.0,29335.2
+2025-08-24,Jacket,Clothing,3255.58,8.0,26044.64
+2025-08-25,Jacket,Clothing,3337.34,8.0,26698.72
+2025-08-25,Pen Pack,Stationery,129.79,9.0,1168.11
+2025-08-26,Headphones,Electronics,2568.17,6.0,15409.02
+2025-08-27,Notebook,Stationery,59.77,6.0,358.62
+2025-08-28,T-Shirt,Clothing,658.01,6.0,3948.06
+2025-08-29,Headphones,Electronics,2265.71,7.0,15859.97
+2025-08-31,Smartphone,Electronics,27073.22,3.0,81219.66
+2025-08-31,Cooking Oil,Grocery,485.71,7.0,3399.97
+2025-09-03,Cooking Oil,Grocery,467.73,11.0,5145.03
+2025-09-04,Jeans,Clothing,1496.84,6.0,8981.04
+2025-09-06,Cooking Oil,Grocery,471.16,5.0,2355.8
+2025-09-06,Headphones,Electronics,2702.08,4.0,10808.32
+2025-09-07,T-Shirt,Clothing,545.44,10.0,5454.4
+2025-09-10,Laptop,Electronics,52846.66,6.0,317079.96
+2025-09-12,Notebook,Stationery,56.66,8.0,453.28
+2025-09-12,Laptop,Electronics,57439.02,,402073.14
+2025-09-13,T-Shirt,Clothing,614.9,6.0,3689.4
+2025-09-13,Headphones,Electronics,2661.27,2.0,5322.54
+2025-09-13,Jeans,Clothing,1407.27,1.0,1407.27
+2025-09-14,Cooking Oil,Grocery,480.64,11.0,5287.04
+2025-09-15,T-Shirt,Clothing,613.9,7.0,4297.3
+2025-09-16,Laptop,Electronics,56403.14,6.0,338418.84
+2025-09-18,Jacket,Clothing,3095.43,10.0,30954.3
+2025-09-18,Cooking Oil,Grocery,470.61,1.0,470.61
+2025-09-21,Jacket,Clothing,3506.49,3.0,10519.47
+2025-09-21,Smartphone,Electronics,31105.4,12.0,373264.8
+2025-09-24,Rice Bag,Grocery,978.61,1.0,978.61
+2025-09-24,Smartphone,Electronics,32923.66,1.0,32923.66
+2025-09-25,Cooking Oil,Grocery,483.04,5.0,2415.2
+2025-09-27,Cooking Oil,Grocery,479.51,5.0,2397.55
+2025-09-30,Smartphone,Electronics,28524.98,10.0,285249.8
+2025-10-01,Rice Bag,Grocery,902.1,12.0,10825.2
+2025-10-02,T-Shirt,Clothing,582.03,12.0,6984.36
+2025-10-04,Jacket,Clothing,2880.5,12.0,34566.0
+2025-10-04,T-Shirt,Clothing,625.46,1.0,625.46
+2025-10-06,Jeans,Clothing,1405.3,14.0,19674.2
+2025-10-07,T-Shirt,Clothing,656.95,12.0,7883.4
+2025-10-09,Pen Pack,Stationery,124.57,9.0,1121.13
+2025-10-10,T-Shirt,Clothing,605.13,11.0,6656.43
+2025-10-11,Smartphone,Electronics,29100.47,1.0,29100.47
+2025-10-11,Headphones,Electronics,2295.64,7.0,16069.48
+2025-10-13,Jacket,Clothing,3269.18,2.0,6538.36
+2025-10-15,Headphones,Electronics,2387.37,4.0,9549.48
+2025-10-15,Laptop,Electronics,49779.25,12.0,597351.0
+2025-10-16,T-Shirt,Clothing,635.28,13.0,8258.64
+2025-10-16,Jacket,Clothing,3361.54,13.0,43700.02
+2025-10-18,Headphones,Electronics,2576.37,8.0,20610.96
+2025-10-20,Laptop,Electronics,56216.82,6.0,337300.92
+2025-10-20,Rice Bag,Grocery,865.98,8.0,6927.84
+2025-10-22,Laptop,Electronics,52293.07,12.0,627516.84
+2025-10-25,Notebook,Stationery,55.36,7.0,387.52
+2025-10-27,Cooking Oil,Grocery,447.9,13.0,5822.7
+2025-10-29,Cooking Oil,Grocery,470.0,8.0,3760.0
+2025-10-29,Jeans,Clothing,1628.5,1.0,1628.5
+2025-10-31,Laptop,Electronics,51647.67,13.0,671419.71
+2025-11-01,Jacket,Clothing,3258.13,6.0,19548.78
+2025-11-01,Notebook,Stationery,60.28,9.0,542.52
+2025-11-05,Laptop,Electronics,59395.32,7.0,415767.24
+2025-11-05,Headphones,Electronics,2545.64,5.0,12728.2
+2025-11-07,Headphones,Electronics,2316.93,5.0,11584.65
+2025-11-07,T-Shirt,Clothing,589.36,3.0,1768.08
+2025-11-09,Jeans,Clothing,1376.52,11.0,15141.72
+2025-11-11,T-Shirt,Clothing,617.51,2.0,1235.02
+2025-11-14,T-Shirt,Clothing,642.1,14.0,8989.4
+2025-11-14,Cooking Oil,Grocery,468.27,1.0,468.27
+2025-11-14,Jacket,Clothing,3206.88,9.0,28861.92
+2025-11-15,Cooking Oil,Grocery,477.89,1.0,477.89
+2025-11-15,Smartphone,Electronics,29982.07,3.0,89946.21
+2025-11-16,Headphones,Electronics,2441.23,4.0,9764.92
+2025-11-16,Cooking Oil,Grocery,469.94,12.0,5639.28
+2025-11-17,Smartphone,Electronics,32201.96,8.0,257615.68
+2025-11-20,Jeans,Clothing,1406.11,6.0,8436.66
+2025-11-21,Laptop,Electronics,57510.38,8.0,460083.04
+2025-11-21,Rice Bag,Grocery,818.65,6.0,4911.9
+2025-11-21,Headphones,Electronics,2501.57,1.0,2501.57
+2025-11-22,Laptop,Electronics,51157.89,11.0,562736.79
+2025-11-24,T-Shirt,Clothing,,5.0,3174.05
+2025-11-24,Pen Pack,Stationery,117.42,8.0,939.36
+2025-11-26,T-Shirt,Clothing,595.12,1.0,595.12
+2025-11-26,Headphones,Electronics,2660.21,8.0,21281.68
+2025-11-26,Rice Bag,Grocery,818.18,12.0,9818.16
+2025-11-26,Jeans,Clothing,1598.04,14.0,22372.56
+2025-11-26,Rice Bag,Grocery,971.34,7.0,6799.38
+2025-11-28,Cooking Oil,Grocery,418.49,4.0,1673.96
+2025-12-03,Cooking Oil,Grocery,483.62,13.0,6287.06
+2025-12-04,Notebook,Stationery,54.06,14.0,756.84
+2025-12-05,Jeans,Clothing,1504.0,6.0,9024.0
+2025-12-05,Headphones,Electronics,2332.13,5.0,11660.65
+2025-12-06,Cooking Oil,Grocery,475.68,8.0,3805.44
+2025-12-06,Laptop,Electronics,59039.19,11.0,649431.09
+2025-12-08,Jeans,Clothing,1574.87,9.0,14173.83
+2025-12-08,Cooking Oil,Grocery,438.68,1.0,438.68
+2025-12-10,Headphones,Electronics,2260.29,2.0,4520.58
+2025-12-12,Headphones,Electronics,2545.45,11.0,27999.95
+2025-12-12,Headphones,Electronics,2469.49,7.0,17286.43
+2025-12-12,Jacket,Clothing,3331.25,10.0,33312.5
+2025-12-17,Jacket,Clothing,3322.7,5.0,16613.5
+2025-12-18,Headphones,Electronics,2654.75,4.0,10619.0
+2025-12-18,T-Shirt,Clothing,581.48,3.0,1744.44
+2025-12-20,Headphones,Electronics,2419.0,12.0,29028.0
+2025-12-21,Notebook,Stationery,59.23,12.0,710.76
+2025-12-22,Cooking Oil,Grocery,483.49,12.0,5801.88
+2025-12-23,T-Shirt,Clothing,560.78,14.0,7850.92
+2025-12-25,T-Shirt,Clothing,582.31,3.0,1746.93
+2025-12-26,Jacket,Clothing,3326.51,4.0,13306.04
+2025-12-30,Smartphone,Electronics,32510.73,11.0,357618.03
+2025-12-31,Jeans,Clothing,1487.18,6.0,8923.08
+2025-12-31,Cooking Oil,Grocery,483.9,11.0,5322.9
